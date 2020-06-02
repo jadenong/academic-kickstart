@@ -27,11 +27,11 @@ interests:
 - Mental Health
 - Student-journalism
 
-[education:
+education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012]
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
