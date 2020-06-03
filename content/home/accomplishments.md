@@ -50,7 +50,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Google Analytics Academy"
-  organization_url = "https:// 
+  organization_url = "https://www.google.com"
   title = "Google Analytics for Beginners"
   url = "https://analytics.google.com/analytics/academy/course/0"
   certificate_url = "https://analytics.google.com/analytics/academy/certificate/t63gVKcET26YIxC_6TZAKg"
