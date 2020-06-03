@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Full-Time Student
 
 # Organizations/Affiliations
 organizations:
 - name: SmartGuppy
   url: ""
-- name: Temasek Junior College
+- name: SGExams
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,8 +27,8 @@ interests:
 - Mental Health
 - Student-journalism
 
-education:
-  courses:
+# education:
+  # courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
@@ -38,18 +38,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: contact
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://www.linkedin.com/in/jaden-ong/
+# - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jadenong
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I am a writer whose current interests lie in psychology, self-help, and programming. My articles have received thousands of views, and I have written on eclectic subjects, such as Autism Spectrum Disorder, student-life, psychotherapy, online-learning, and others.
+I am a writer whose current interests lie in psychology, self-help, and programming. My articles have received thousands of views, and I have written on eclectic subjects such as Autism Spectrum Disorder, student-life, psychotherapy, online-learning, and others.
 
 I enjoy learning, and taking MOOCs is one of my hobbies. Currently, I'm doing Harvard's Introduction to Computer Science and Duke's Introductory Human Physiology. In my free time I like to read, write, watch TV, and play chess. I'm always up for a round, so shoot me a message if you're game.
