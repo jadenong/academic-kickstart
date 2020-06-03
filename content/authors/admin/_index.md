@@ -27,11 +27,9 @@ interests:
 - Mental Health
 - Student-journalism
 
-# education:
-  # courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+education:
+  courses:
+  - 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +42,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jaden-ong/
-# - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/jadenong
