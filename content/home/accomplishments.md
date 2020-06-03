@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "MOOCs"
 subtitle = ""
 
 # Date format
@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Introduction to Chemistry: Reactions and Ratios"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/HAN5RPZ54FM8"
+  date_start = "2020-06-01"
   date_end = ""
   description = ""
 
