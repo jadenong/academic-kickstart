@@ -1,9 +1,4 @@
 +++
-[[main]]
-  name = "Experience"  # A link title for your page.
-  url = "experience/"  # The URL of your page.
-  weight = 70  # The position of your page in the menu.
-
 title = "Experience"
 subtitle = ""
 
