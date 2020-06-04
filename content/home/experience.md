@@ -1,9 +1,8 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+[[main]]
+  name = "Experience"  # A link title for your page.
+  url = "experience/"  # The URL of your page.
+  weight = 70  # The position of your page in the menu.
 
 title = "Experience"
 subtitle = ""
