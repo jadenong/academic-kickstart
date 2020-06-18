@@ -8,7 +8,7 @@
   url = "#about"
   weight = 10
 
- [[main]]
+[[main]]
   name = "MOOCs"
   url = "#accomplishments"
   weight = 50
@@ -17,6 +17,11 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+  
+ [[main]]
+  name = "Study Notes"
+  url = "/studynotes/"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
