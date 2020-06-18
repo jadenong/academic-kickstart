@@ -20,7 +20,7 @@
   
  [[main]]
   name = "Study Notes"
-  url = "/studynotes/"
+  url = "studynotes/"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
