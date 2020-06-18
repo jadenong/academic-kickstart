@@ -1,15 +1,4 @@
 ---
-title: test
-author: Simon
-date: '2018-03-04'
-slug: test
-categories: []
-tags: ['Test']
-output:
-  md_document
+date: 2017-12-01
+title: My first blog post
 ---
-
-Test
-```{r}
-hist(rnorm(100))
-```
